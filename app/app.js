@@ -26,6 +26,6 @@
     });
     })
     .constant("globalConfig", {
-    apiAddress: 'http://localhost:3000/api'
+    apiAddress: 'https://noshapp.herokuapp.com/'
     });
    })();
