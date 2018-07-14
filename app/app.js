@@ -26,6 +26,6 @@
     });
     })
     .constant("globalConfig", {
-    apiAddress: 'https://noshapp.herokuapp.com/'
+    apiAddress: 'https://noshapp.herokuapp.com/api'
     });
    })();
